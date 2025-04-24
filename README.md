@@ -39,7 +39,7 @@ A Chrome extension that translates selected text on web pages using AI language 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ai-translator-extension.git
+   git clone https://github.com/Brigu09/Ai_Translation_Chrome_Extension.git
    cd ai-translator-extension
    ```
 
